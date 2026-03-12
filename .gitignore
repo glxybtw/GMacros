@@ -1,0 +1,21 @@
+# Build output
+build/
+bin/
+
+# Qt Creator
+.qtcreator/
+*.user
+
+# Compiled resources
+app_icon.o
+app.res
+*.o
+*.moc
+moc_*.cpp
+qrc_*.cpp
+
+# Executables
+*.exe
+
+# Logs
+*.log

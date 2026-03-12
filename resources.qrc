@@ -1,0 +1,12 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+  <qresource prefix="/logo">
+    <file>icon.ico</file>
+  </qresource>
+  <qresource prefix="/icons">
+    <file alias="drag.png">icons/drag.png</file>
+    <file alias="bolt.png">icons/bolt.png</file>
+    <file alias="crosshair.png">icons/crosshair.png</file>
+    <file alias="build.png">icons/build.png</file>
+  </qresource>
+</RCC>
